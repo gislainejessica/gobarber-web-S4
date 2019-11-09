@@ -12,8 +12,6 @@ const schema = Yup.object().shape({
   password: Yup.string().required('Senha é obrigatória').min(6, 'No mínimo 6 caracteres')
 })
 
-
-
 export default function SigUp() {
   function handleSubmit(data){
     console.tron.log(data)

@@ -1,8 +1,8 @@
 #### Etapas:
 [x] Estrutura configurada
 [x] Ajustes na API
-[x] Configurando rotas
-[x] Configurando Reactotron
+[x] __Configurando__ rotas
+[x] __Configurando__ Reactotron
 [x] Rotas privadas
 [x] Layouts por página
 [x] Estilos globais
@@ -10,7 +10,7 @@
 [x] Estilização da autenticação
 [x] Utilizando Unform
 [x] Validações
-[x] Configurando store
+[x] __Configurando__ store
 [x] Autenticação
 [ ] Armazenando perfil
 [ ] Persistindo autenticação
@@ -18,7 +18,7 @@
 [ ] Exibindo toasts
 [ ] Cadastro na aplicação
 [ ] Requisições autenticadas
-[ ] Configurando Header
+[ ] __Configurando__ Header
 [ ] Estilizando notificações
 [ ] Notificações
 [ ] Página de perfil
