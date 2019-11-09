@@ -7,7 +7,7 @@
 [x] Layouts por página
 [x] Estilos globais
 [x] Utilizando Root Import
-[ ] Estilização da autenticação
+[x] Estilização da autenticação
 [ ] Utilizando Unform
 [ ] Validações
 [ ] Configurando store
