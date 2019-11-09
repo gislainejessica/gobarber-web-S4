@@ -50,3 +50,4 @@ __Rotas__
 `yarn add react-router-dom`
 `yarn add history`
 `yarn add reactotron-react-js `
+`yarn add prop-types`
