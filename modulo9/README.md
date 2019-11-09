@@ -51,3 +51,4 @@ __Rotas__
 `yarn add history`
 `yarn add reactotron-react-js `
 `yarn add prop-types`
+`yarn add styled-components`
