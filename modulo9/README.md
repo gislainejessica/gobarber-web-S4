@@ -9,7 +9,7 @@
 [x] Utilizando Root Import
 [x] Estilização da autenticação
 [x] Utilizando Unform
-[ ] Validações
+[x] Validações
 [ ] Configurando store
 [ ] Autenticação
 [ ] Armazenando perfil
@@ -112,3 +112,5 @@ Fazer as importações dos arquivos a partir de um arquivo raiz, que será a bas
 ---
 __Trabalhando com formulários de forma mais eficiente__
 `yarn add @rocketseat/unform`
+__Validação__
+`yarn add yup`
