@@ -1,8 +1,8 @@
 #### Etapas:
 [x] Estrutura configurada
-[ ] Ajustes na API
-[ ] Configurando rotas
-[ ] Configurando Reactotron
+[x] Ajustes na API
+[x] Configurando rotas
+[x] Configurando Reactotron
 [ ] Rotas privadas
 [ ] Layouts por página
 [ ] Estilos globais
@@ -43,3 +43,10 @@
   yarn add eslint-plugin-jsx-a11y -D
   yarn add eslint-plugin-import -D
 ```
+
+---
+
+__Rotas__
+`yarn add react-router-dom`
+`yarn add history`
+`yarn add reactotron-react-js `
