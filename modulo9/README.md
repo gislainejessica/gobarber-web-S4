@@ -10,8 +10,8 @@
 [x] Estilização da autenticação
 [x] Utilizando Unform
 [x] Validações
-[ ] Configurando store
-[ ] Autenticação
+[x] Configurando store
+[x] Autenticação
 [ ] Armazenando perfil
 [ ] Persistindo autenticação
 [ ] Loading da autenticação
@@ -114,3 +114,7 @@ __Trabalhando com formulários de forma mais eficiente__
 `yarn add @rocketseat/unform`
 __Validação__
 `yarn add yup`
+__Redux Config__
+`yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga immer`
+
+`yarn add axios`
