@@ -8,7 +8,7 @@
 [x] Estilos globais
 [x] Utilizando Root Import
 [x] Estilização da autenticação
-[ ] Utilizando Unform
+[x] Utilizando Unform
 [ ] Validações
 [ ] Configurando store
 [ ] Autenticação
@@ -109,3 +109,6 @@ Fazer as importações dos arquivos a partir de um arquivo raiz, que será a bas
       }
     }
     ```
+---
+__Trabalhando com formulários de forma mais eficiente__
+`yarn add @rocketseat/unform`
