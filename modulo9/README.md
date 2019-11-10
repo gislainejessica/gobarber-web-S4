@@ -13,8 +13,8 @@
 [x] __Configurando__ store
 [x] Autenticação
 [x] Armazenando perfil
-[ ] Persistindo autenticação
-[ ] Loading da autenticação
+[x] Persistindo autenticação
+[x] Loading da autenticação
 [ ] Exibindo toasts
 [ ] Cadastro na aplicação
 [ ] Requisições autenticadas
@@ -126,3 +126,5 @@ __Redux Config__
 
 __Persistindo dados localmente__
 `yarn add redux-persist`
+
+`yarn add react-toastify`
