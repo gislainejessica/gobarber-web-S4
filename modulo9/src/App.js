@@ -4,18 +4,21 @@ import { Provider } from 'react-redux'
 import './config/Reactotron'
 import Routes from './routes'
 import history from './services/history'
+import { PersistGate } from 'redux-persist/integration/react'
 
-import store from './store'
+import { store , persistor} from './store'
 import GlobalStyle from './styles/global'
 
 
 function App() {
   return (
     <Provider store={store}>
-      <Router history={history}>
-          <GlobalStyle/>
-          <Routes/>
-      </Router>  
+      <PersistGate persistor={persistor}>
+        <Router history={history}>
+            <GlobalStyle/>
+            <Routes/>
+        </Router>  
+      </PersistGate>
     </Provider>
   )
 }

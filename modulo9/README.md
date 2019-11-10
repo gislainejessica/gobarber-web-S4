@@ -12,7 +12,7 @@
 [x] Validações
 [x] __Configurando__ store
 [x] Autenticação
-[ ] Armazenando perfil
+[x] Armazenando perfil
 [ ] Persistindo autenticação
 [ ] Loading da autenticação
 [ ] Exibindo toasts
@@ -111,10 +111,18 @@ Fazer as importações dos arquivos a partir de um arquivo raiz, que será a bas
     ```
 ---
 __Trabalhando com formulários de forma mais eficiente__
+
 `yarn add @rocketseat/unform`
+
 __Validação__
+
 `yarn add yup`
+
 __Redux Config__
+
 `yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga immer`
 
 `yarn add axios`
+
+__Persistindo dados localmente__
+`yarn add redux-persist`
