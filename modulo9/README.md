@@ -128,3 +128,6 @@ __Persistindo dados localmente__
 `yarn add redux-persist`
 
 `yarn add react-toastify`
+
+yarn add react-icons
+yarn add react-perfect-scrollbar

@@ -5,7 +5,6 @@ import { signSuccess , signFailure} from './actions'
 
 import history from '~/services/history'
 
-
 export function* signIn({ payload }) {
   try{
     const { email, password } = payload
