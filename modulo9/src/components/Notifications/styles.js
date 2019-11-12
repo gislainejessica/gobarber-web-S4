@@ -9,7 +9,6 @@ export const Container = styled.div`
 export const Badge = styled.button`
   background: none;
   border: 0;
-  position: relative;
 
   ${props => props.hasUnread && css`
     &::after {
@@ -25,6 +24,7 @@ export const Badge = styled.button`
   `}
 `
 export const NotificationList = styled.div`
+  margin-top: 15px;
   position: absolute;
   width: 260px;
   left: calc(50% - 130px);

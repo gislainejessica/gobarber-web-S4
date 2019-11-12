@@ -132,3 +132,4 @@ __Persistindo dados localmente__
 yarn add react-icons
 yarn add react-perfect-scrollbar
 yarn add date-fns@next
+yarn add date-fns-tz
